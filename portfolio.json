@@ -1,0 +1,59 @@
+{
+  "assistant_name": "Sage",
+  "name": "Your Name",
+  "title": "SEO Specialist | AEO | AIO | GEO | LLM Optimization",
+  "location": "Pakistan",
+  "email": "you@example.com",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/your-profile",
+    "x": "https://x.com/your-handle",
+    "github": "https://github.com/your-handle",
+    "whatsapp": "https://wa.me/920000000000"
+  },
+  "summary": "SEO and Digital Marketing Specialist passionate about improving organic visibility, driving targeted traffic and building digital growth strategies. Combines traditional SEO with modern AI-powered search optimization to help businesses improve their presence across search engines and AI platforms such as ChatGPT and Perplexity.",
+  "expertise": {
+    "SEO": ["Keyword Research", "On-Page SEO", "Off-Page SEO", "Technical SEO", "Local SEO", "Competitor Analysis"],
+    "AEO (Answer Engine Optimization)": ["Search Intent Optimization", "Featured Snippet Optimization", "FAQ Optimization", "Structured Content", "Answer-Focused Content"],
+    "AIO (Artificial Intelligence Optimization)": ["AI-Assisted Content Strategy", "AI Content Optimization", "Semantic SEO", "Search Experience Optimization"],
+    "GEO (Generative Engine Optimization)": ["AI Search Visibility", "Entity Optimization", "Brand Mention Monitoring", "Generative Search Optimization"],
+    "LLM Optimization": ["ChatGPT Search Visibility", "Perplexity Optimization", "Entity and Brand Recognition", "AI-Readable Content Structure"]
+  },
+  "skills": {
+    "SEO": ["Keyword Research", "Website SEO Audits", "Competitor SEO Analysis", "On-Page SEO Optimization", "Technical SEO", "Off-Page SEO", "Content Strategy", "Backlink Building", "Internal Linking", "SEO Reporting"],
+    "Content": ["Blog Content Creation", "Content Optimization", "Search Intent Analysis", "Content Gap Analysis", "Topic Clustering", "Content Planning"],
+    "Analytics": ["SEO Performance Tracking", "Organic Traffic Analysis", "Ranking Analysis", "Performance Reporting", "Data Analysis"]
+  },
+  "tools": {
+    "Ahrefs": "Backlink, keyword and competitor research",
+    "SEMrush": "Keyword gaps, rank tracking and site audits",
+    "Google Search Console": "Search performance, indexing and coverage",
+    "Screaming Frog": "Technical crawling and on-site audits",
+    "ChatGPT": "Content ideation, outlines and AI visibility checks",
+    "Perplexity AI": "Testing citations and answer-engine visibility",
+    "Surfer SEO": "Content scoring and on-page optimization",
+    "Otterly.AI": "Brand mention monitoring in AI search"
+  },
+  "projects_and_services": [
+    { "name": "Keyword Research & Analysis", "description": "Mapping search demand, intent and difficulty into a prioritized keyword list.", "tools": ["Ahrefs", "SEMrush"] },
+    { "name": "Complete Website SEO Audit", "description": "A full review of crawlability, indexing, speed, structure and content issues.", "tools": ["Screaming Frog", "Google Search Console"] },
+    { "name": "Competitor SEO Analysis", "description": "Benchmarking competitor keywords, content and backlinks to find gaps.", "tools": ["Ahrefs", "SEMrush"] },
+    { "name": "On-Page SEO Optimization", "description": "Optimizing titles, headings, copy, schema and internal links page by page.", "tools": ["Surfer SEO", "Google Search Console"] },
+    { "name": "SEO Content Strategy", "description": "A topic-cluster plan tied to search intent and funnel stage.", "tools": ["Ahrefs", "ChatGPT"] },
+    { "name": "Blog Content Creation & Optimization", "description": "Writing and refining articles for rankings, snippets and AI citations.", "tools": ["Surfer SEO", "ChatGPT"] },
+    { "name": "Technical SEO Optimization", "description": "Fixing indexation, redirects, canonicals, sitemaps and site speed issues.", "tools": ["Screaming Frog", "Google Search Console"] },
+    { "name": "Backlink Building Strategy", "description": "Planning ethical outreach and link opportunities from competitor link data.", "tools": ["Ahrefs", "SEMrush"] },
+    { "name": "SEO Performance Dashboard", "description": "A single view of organic traffic, rankings and conversions.", "tools": ["Google Search Console", "SEMrush"] },
+    { "name": "Monthly SEO Performance Reports", "description": "Clear monthly reporting on progress, insights and next actions.", "tools": ["Google Search Console", "Ahrefs"] },
+    { "name": "AI Search Visibility Tracking", "description": "Monitoring brand mentions and citations across ChatGPT and Perplexity.", "tools": ["Otterly.AI", "Perplexity AI"] }
+  ],
+  "experience": [
+    { "role": "SEO Specialist", "company": "Aurex", "period": "January 2025 - June 2026 (1 year 6 months)", "details": "SEO strategy development, keyword research, website audits, competitor analysis, on-page SEO, technical SEO improvements, content optimization and SEO performance reporting." },
+    { "role": "Digital Marketing Specialist", "company": "Growex", "period": "October 2023 - December 2024 (1 year 3 months)", "details": "Digital marketing strategy, SEO campaign management, content planning, keyword research, organic traffic optimization, competitor research and performance analysis." },
+    { "role": "SEO & Digital Marketing Executive", "company": "Systems Limited", "period": "August 2022 - September 2023 (1 year 2 months)", "details": "SEO implementation, website optimization, keyword research, content optimization, technical SEO support, SEO reporting and digital marketing support." }
+  ],
+  "education": [
+    { "degree": "Associate Degree Program (ADP) in Computer Science", "institution": "Government Dyal Singh College (affiliated with the University of the Punjab)", "period": "October 2024 - October 2026" }
+  ],
+  "not_available": "Case studies, numeric achievements (projects completed, websites audited, etc.) and skill proficiency percentages have not been published yet.",
+  "suggested_questions": ["What does AEO, AIO and GEO mean?", "What SEO services do you offer?", "Tell me about your experience", "Which tools do you use?", "How can I contact you?"]
+}

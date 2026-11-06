@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Chat with my portfolio assistant</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;700;800&family=Manrope:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main class="chat">
+    <header class="chat-head">
+      <div class="avatar"><img src="/static/profile.jpg" alt=""></div>
+      <div>
+        <h1 id="botName">Assistant</h1>
+        <p id="botSub">Ask me about my portfolio</p>
+      </div>
+    </header>
+    <section class="log" id="log" aria-live="polite"></section>
+    <div class="chips" id="chips"></div>
+    <form class="composer" id="form">
+      <input id="input" type="text" placeholder="Ask about SEO services, experience, tools…" autocomplete="off" required>
+      <button type="submit" id="send">Send</button>
+    </form>
+  </main>
+  <script src="/static/script.js"></script>
+</body>
+</html>
